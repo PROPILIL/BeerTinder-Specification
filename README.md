@@ -5,7 +5,7 @@ This is a study project using the Punk API (https://punkapi.com/)
 
 ### Technologies:
 1. Kotlin (Coroutines, Coil)
-2. Retrofit + Moshi
+2. Retrofit + okHttpClient Kotlin Serialization
 3. Dagger2
 4. RecyclerView
 5. ViewPager2
@@ -14,6 +14,7 @@ This is a study project using the Punk API (https://punkapi.com/)
 8. View Bindings
 9. Room
 10. LiveData
+11. Paging 3
 
 ***
 
